@@ -12,5 +12,5 @@ got it ? if you do, no need to read further :), but please do ... look at the [d
 
 OR
 
-[DEW MA docs](http://ifni.co/dew_avg.html)
+[DEW MA docs](http://ifni.co/dew_average.html)
 
