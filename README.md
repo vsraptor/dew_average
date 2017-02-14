@@ -8,7 +8,7 @@ For starters let me see if I can surmise what RL is in one line, ready ??
 
 > Exponentially weighted averaging of discounted future rewards.
 
-got it ? if you do, no need to read further :), but please do ... look at the docs directory.
+got it ? if you do, no need to read further :), but please do ... look at the [docs](htmlpreview.github.com/?https://github.com/vsraptor/dew_average/blob/master/docs/dew_average.html) directory.
 
 OR
 
